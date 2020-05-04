@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="datePickerID" type="id"/>
+
+    <item name="timePickerID" type="id"/>
+
+    <item name="EditTextContent" type="id"/>
+
+
+    <item name="LinearLayoutContent" type="id"/>
+    <item name="TextViewContent" type="id"/>
+
+
+</resources>
